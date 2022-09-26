@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Realtors Choice Relocation Service</string>
+ <string name="server_client_id">125586898654-7c5rjgf0see9s1ulsj9r6o81d2ec5dar.apps.googleusercontent.com</string>
+
+<string name="facebook_app_id">1068039640436365</string>
+<string name="fb_login_protocol_scheme">fb1068039640436365</string>
+<string name="facebook_client_token">4b9a4bc23b1d3e7c80c71ed62cc3a8e3</string>
+
+
+</resources>

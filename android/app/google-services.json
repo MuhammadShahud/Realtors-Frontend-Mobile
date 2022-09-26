@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "318601630721",
+    "project_id": "realtors-17862",
+    "storage_bucket": "realtors-17862.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318601630721:android:527153f7733cb352bf1c00",
+        "android_client_info": {
+          "package_name": "com.realtorschoiceproducts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318601630721-b839l9ujn6v31eohjs8qs3bs2s9mtvf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.realtorschoiceproducts",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "318601630721-ftnm11sijbf17evmqq3m8icgocbs15us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.realtorschoiceproducts",
+            "certificate_hash": "69cec365ed194b6d2b01caf6c266dbd569f6f032"
+          }
+        },
+        {
+          "client_id": "318601630721-bfr9r49d797op4iogku16or3btclul2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMtHCdgFWDLmnCdZfEBrubHZDHHPr-QV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318601630721-bfr9r49d797op4iogku16or3btclul2c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318601630721-5hqhtjjvm31djr0hhjjg18mp1tst3bmk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appingine.realtors"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
